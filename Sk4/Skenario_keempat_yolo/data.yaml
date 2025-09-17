@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['ikan']
+
+roboflow:
+  workspace: projekakhir-ejp1y
+  project: skenario-data-lokal-cfv14
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/projekakhir-ejp1y/skenario-data-lokal-cfv14/dataset/1

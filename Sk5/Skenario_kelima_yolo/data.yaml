@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['ikan']
+
+roboflow:
+  workspace: projek-acy6m
+  project: skenario-lokal-davrj
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/projek-acy6m/skenario-lokal-davrj/dataset/2
